@@ -1,0 +1,31 @@
+2018-07-23 09:23:21.769 [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration - No spring.application.name found, defaulting to 'application'
+2018-07-23 09:23:21.796 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-07-23 09:23:21.865 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-07-23 09:23:23.320 [main] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 09:25:50.464 [http-nio-8761-exec-10] WARN  com.netflix.eureka.registry.AbstractInstanceRegistry - DS: Registry: cancel failed because Lease is not registered for: ANCAIYUN-ADMIN-SERVER/localhost:ancaiyun-admin-server:-1
+2018-07-23 09:33:23.349 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 09:43:23.376 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 09:53:23.406 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 10:03:27.415 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 10:13:27.446 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 10:54:24.357 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 11:04:24.381 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 11:14:24.406 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 11:24:24.432 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 11:34:24.456 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 11:44:24.483 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 11:54:24.509 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 12:04:24.535 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 12:14:24.559 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 12:24:24.582 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 12:34:24.606 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 12:44:24.630 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 12:54:24.655 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 13:16:45.798 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 13:26:45.831 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 13:36:45.860 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 13:46:45.890 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 13:56:45.918 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 14:06:45.947 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 14:16:45.976 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-23 14:26:46.055 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry

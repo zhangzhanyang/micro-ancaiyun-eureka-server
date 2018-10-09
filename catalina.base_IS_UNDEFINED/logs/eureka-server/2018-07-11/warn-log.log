@@ -1,0 +1,24 @@
+2018-07-11 08:37:52.909 [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration - No spring.application.name found, defaulting to 'application'
+2018-07-11 08:37:52.928 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-07-11 08:37:52.978 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-07-11 08:37:55.049 [main] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-11 08:47:55.124 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-11 08:57:55.127 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-11 09:07:55.131 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-11 09:17:55.146 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-11 09:27:55.153 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-11 10:15:23.789 [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration - No spring.application.name found, defaulting to 'application'
+2018-07-11 10:15:25.804 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-07-11 10:15:29.820 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-07-11 10:16:05.550 [main] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-11 10:22:01.906 [http-nio-8761-exec-9] WARN  com.netflix.eureka.registry.AbstractInstanceRegistry - DS: Registry: cancel failed because Lease is not registered for: MICRO-ANCAIYUN-SSO-SERVICE/localhost:micro-ancaiyun-sso-service:-1
+2018-07-11 10:26:07.554 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-11 10:36:09.556 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-11 10:41:51.977 [http-nio-8761-exec-9] WARN  com.netflix.eureka.registry.AbstractInstanceRegistry - DS: Registry: cancel failed because Lease is not registered for: ANCAIYUN-ADMIN-SERVER/localhost:ancaiyun-admin-server:-1
+2018-07-11 10:46:11.559 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-11 10:56:13.589 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-11 10:57:44.137 [http-nio-8761-exec-1] WARN  com.netflix.eureka.registry.AbstractInstanceRegistry - DS: Registry: cancel failed because Lease is not registered for: ANCAIYUN-ADMIN-SERVER/localhost:ancaiyun-admin-server:-1
+2018-07-11 11:06:15.591 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-11 11:16:17.592 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-11 11:26:19.595 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-11 11:36:21.598 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry

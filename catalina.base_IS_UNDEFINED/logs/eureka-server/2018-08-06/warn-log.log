@@ -1,0 +1,16 @@
+2018-08-06 09:29:18.689 [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration - No spring.application.name found, defaulting to 'application'
+2018-08-06 09:29:18.714 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-08-06 09:29:18.784 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-08-06 09:29:20.049 [main] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-08-06 09:39:28.415 [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration - No spring.application.name found, defaulting to 'application'
+2018-08-06 09:39:28.446 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-08-06 09:39:28.502 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-08-06 09:39:33.156 [main] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-08-06 09:39:52.770 [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration - No spring.application.name found, defaulting to 'application'
+2018-08-06 09:39:52.796 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-08-06 09:39:52.853 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-08-06 09:39:54.118 [main] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-08-06 09:40:48.457 [http-nio-8761-exec-9] WARN  com.netflix.eureka.registry.AbstractInstanceRegistry - DS: Registry: cancel failed because Lease is not registered for: MICRO-ANCAIYUN-ADMIN-SSO-SERVICE/localhost:micro-ancaiyun-admin-sso-service:-1
+2018-08-06 09:41:31.001 [http-nio-8761-exec-6] WARN  com.netflix.eureka.registry.AbstractInstanceRegistry - DS: Registry: cancel failed because Lease is not registered for: MICRO-ANCAIYUN-ADMIN-SERVER/localhost:micro-ancaiyun-admin-server:-1
+2018-08-06 09:49:54.143 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-08-06 09:59:54.169 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry

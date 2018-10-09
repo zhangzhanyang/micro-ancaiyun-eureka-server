@@ -1,0 +1,14 @@
+2018-07-07 08:40:44.440 [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration - No spring.application.name found, defaulting to 'application'
+2018-07-07 08:40:44.456 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-07-07 08:40:44.467 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-07-07 08:40:45.850 [main] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-07 08:41:01.008 [http-nio-8761-exec-3] WARN  com.netflix.eureka.registry.AbstractInstanceRegistry - DS: Registry: lease doesn't exist, registering resource: ANCAIYUN-ADMIN-SERVER - localhost:ancaiyun-admin-server:8084
+2018-07-07 08:41:01.009 [http-nio-8761-exec-3] WARN  com.netflix.eureka.resources.InstanceResource - Not Found (Renew): ANCAIYUN-ADMIN-SERVER - localhost:ancaiyun-admin-server:8084
+2018-07-07 08:41:09.996 [http-nio-8761-exec-7] WARN  com.netflix.eureka.registry.AbstractInstanceRegistry - DS: Registry: lease doesn't exist, registering resource: MICRO-ANCAIYUN-ZUUL - localhost:micro-ancaiyun-zuul:8888
+2018-07-07 08:41:10.001 [http-nio-8761-exec-7] WARN  com.netflix.eureka.resources.InstanceResource - Not Found (Renew): MICRO-ANCAIYUN-ZUUL - localhost:micro-ancaiyun-zuul:8888
+2018-07-07 08:41:12.483 [http-nio-8761-exec-9] WARN  com.netflix.eureka.registry.AbstractInstanceRegistry - DS: Registry: lease doesn't exist, registering resource: MICRO-ANCAIYUN-SSO-SERVICE - localhost:micro-ancaiyun-sso-service:8880
+2018-07-07 08:41:12.484 [http-nio-8761-exec-9] WARN  com.netflix.eureka.resources.InstanceResource - Not Found (Renew): MICRO-ANCAIYUN-SSO-SERVICE - localhost:micro-ancaiyun-sso-service:8880
+2018-07-07 08:50:45.853 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-07 09:00:45.859 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-07 09:10:45.862 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
+2018-07-07 09:20:45.865 [Eureka-PeerNodesUpdater] WARN  com.netflix.eureka.cluster.PeerEurekaNodes - The replica size seems to be empty. Check the route 53 DNS Registry
