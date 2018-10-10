@@ -1,9 +1,9 @@
-FROM hub.c.163.com/wuxukun/maven-aliyun:3-jdk-8
+FROM maven:3.5.0-jdk-8-alpine
 
-ADD pom.xml /tmp/build/
+LABEL maintainer "yann.xia@daocloud.io"
 
-ADD src /tmp/build/src
-        #构建应用
-RUN cd /tmp/build && mvn clean package \
-        #拷贝编译结果到指定目录
-        && mv target
+WORKDIR /project
+ADD . /project
+
+RUN mvn install -Dmaven.test.skip=true
+CMD ["mvn"]
